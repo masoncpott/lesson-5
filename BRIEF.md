@@ -19,6 +19,8 @@ I want to send people here for links to my socials.
 ## Links
 - Display these links as stacked buttons, full-width within the card:
 - Portfolio (www.masonpott.com)
+- Gallery (https://vsgcontemporary.com/artists/45-mason-pott/)
+- This is Colossal Feature (https://www.thisiscolossal.com/2025/12/mason-pott-hyperrealistic-floral-paintings/)
 - Email (mailto:studio@masonpott.com)
 
 ## Nice to Have
